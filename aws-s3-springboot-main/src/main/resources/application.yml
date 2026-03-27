@@ -13,8 +13,8 @@ spring:
   cloud:
     aws:
       credentials:
-        access-key: AKIA25EZ7QIXYHCIJBHN
-        secret-key: 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
+        access-key: 
+        secret-key: 
       s3:
         bucket: 404nf-instagram-uploaded-files
       region:
